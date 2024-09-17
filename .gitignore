@@ -1,0 +1,4 @@
+flask/
+instance/
+__pycache__/
+.DS_Store
